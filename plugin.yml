@@ -1,7 +1,7 @@
 name: Masks
 main: jasonwynn10\masks\Main
 version: 0.1.0
-api: 3.1.1-ALPHA11
+api: 3.1.1
 description: "A commissioned mask effects plugin"
 author: "jasonwynn10"
 depend:
